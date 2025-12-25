@@ -1,5 +1,4 @@
-‎🐕🌊 ShibaWave Meme Coin – Full Roadmap (2025–2026)
-‎
+
 ‎🚀 The Future of ShibaWave Begins Now!
 ‎
 ‎
