@@ -1,6 +1,8 @@
 ShibaWave Meme Coin – Full Roadmap (2025–2026)
+
 🚀 The Future of ShibaWave Begins Now!
 📍 Phase 1: Foundation & Launch Preparation
+
 ✅ Concept Creation (Brand, Mascot, Vision)
 ✅ Tokenomics Finalization (Total Supply, Distribution, Burn Plans)
 ✅ Smart Contract Development (Solana / Pump.Fun)
@@ -10,6 +12,7 @@ Twitter/X
 Telegram
 TikTok
 YouTube
+
 📍 Phase 2: Official Launch
 🔥 Pump.fun Fair Launch
 🔥 Liquidity Lock
@@ -17,6 +20,7 @@ YouTube
 🔥 Community Build-Up
 🔥 First Airdrop Campaign
 🔥 ShibaWave Website V1 (Buy, Sell, Chart Links)
+
 📍 Phase 3: Community Expansion
 📢 Daily Twitter/X Campaign
 📢 Meme Contests & Giveaways
@@ -24,6 +28,7 @@ YouTube
 👥 Influencer Shoutouts (Crypto/NFT, BD Trending Creators)
 📈 Expanding Telegram Community
 🌐 ShibaWave Website V2 (Roadmap, About, Token Details)
+
 📍 Phase 4: Utility Development
 💠 ShibaWave Staking
 💠 ShibaWave Faucet Website (Earn by Tasks)
@@ -39,6 +44,7 @@ YouTube
 ⭐ CoinGecko Listing
 ⭐ CoinMarketCap Listing
 📢 CEX Listing Target (Negotiation Phase)
+
 📍 Phase 6: Large Scale Marketing
 🚀 Huge Twitter Campaign
 🚀 Trending Hashtags
@@ -47,6 +53,7 @@ YouTube
 🤝 Partnerships with Web3 Projects
 🎉 Global Contest Events
 📍 Phase 7: Ecosystem Growth
+
 🟩 ShibaWave Wallet
 🟩 ShibaSwap (Basic DEX UI)
 🟩 NFT Collection Launch
@@ -58,6 +65,7 @@ YouTube
 🌍 Mainstream Crypto Influence
 🌍 Long-term Holder Rewards
 🌍 International Meme Culture Integration
+
 🔗 Official Links (To Be Updated)
 Website: https://shibawave.hodl.fyi/
 GitHub: https://github.com/ShibaWave/ShibaWaveInu
