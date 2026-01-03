@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ShibaWave Meme Coin | Whitepaper v1.0</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #0b0f1a;
+            color: #eaeaea;
+            line-height: 1.7;
+        }
+
+        header {
+            background: linear-gradient(135deg, #ff7a18, #ffb347);
+            color: #000;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 60px 20px;
+            border-bottom: 1px solid #1f253a;
+        }
+
+        h2 {
+            color: #ffb347;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table th, table td {
+            border: 1px solid #2a2f45;
+            padding: 12px;
+            text-align: left;
+        }
+
+        table th {
+            background: #1f253a;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        a {
+            color: #ffb347;
+            text-decoration: none;
+        }
+
+        footer {
+            background: #05070f;
+            text-align: center;
+            padding: 30px 20px;
+            font-size: 14px;
+            color: #aaa;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>ShibaWave Meme Coin</h1>
+    <p>Ride the Meme Wave of the Future</p>
+    <p>Network: Solana | Whitepaper v1.0</p>
+</header>
+
+<section>
+    <h2>Abstract</h2>
+    <p>
+        ShibaWave is a community-driven meme coin built on the Solana blockchain,
+        designed to combine meme culture, fair launch mechanics, and long-term utility.
+        The project aims to reward holders while expanding into staking,
+        play-to-earn, NFTs, and Web3 tools.
+    </p>
+</section>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        ShibaWave is a community-driven meme coin built on the Solana blockchain.
+        It focuses on transparency, fair launch principles, and long-term ecosystem development.
+    </p>
+    <p>
+        Meme coins matter because they attract new users through simplicity,
+        creativity, and strong community engagement.
+    </p>
+    <p>
+        Solana is chosen for its speed, scalability, and extremely low transaction fees.
+    </p>
+</section>
+
+<section>
+    <h2>Problem Statement</h2>
+    <p>
+        Many meme coins fail due to lack of transparency, utility, and long-term planning.
+        Hidden token allocations and high transaction fees further reduce trust.
+    </p>
+</section>
+
+<section>
+    <h2>ShibaWave Vision & Solution</h2>
+    <ul>
+        <li>Fair launch with no private allocation</li>
+        <li>Transparent on-chain data</li>
+        <li>Locked liquidity</li>
+        <li>Gradual utility expansion</li>
+        <li>Low-cost Solana ecosystem</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tokenomics</h2>
+    <table>
+        <tr><th>Token Name</th><td>ShibaWave</td></tr>
+        <tr><th>Symbol</th><td>SWAVE</td></tr>
+        <tr><th>Network</th><td>Solana</td></tr>
+        <tr><th>Total Supply</th><td>1,000,000,000</td></tr>
+        <tr><th>Launch Type</th><td>Pump.fun Fair Launch</td></tr>
+        <tr><th>Liquidity</th><td>100% Locked</td></tr>
+        <tr><th>Tax</th><td>0%</td></tr>
+        <tr><th>Burn Plan</th><td>Community-based</td></tr>
+    </table>
+</section>
+
+<section>
+    <h2>Utility & Ecosystem</h2>
+    <ul>
+        <li>Staking System</li>
+        <li>Faucet & Task Rewards</li>
+        <li>Referral Income</li>
+        <li>Play-to-Earn Mini Games</li>
+        <li>Web3 Dashboard</li>
+        <li>Holder Verification</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Roadmap (2025–2027)</h2>
+    <p>
+        From fair launch and community growth to staking, NFTs,
+        ShibaWave Wallet, and long-term ecosystem expansion.
+    </p>
+</section>
+
+<section>
+    <h2>Marketing & Growth</h2>
+    <ul>
+        <li>Twitter/X campaigns & meme contests</li>
+        <li>Influencer collaborations (BD & Global)</li>
+        <li>DEX & CEX listings</li>
+        <li>AMA sessions & partnerships</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Community Governance</h2>
+    <p>
+        ShibaWave will evolve toward DAO-based governance,
+        allowing holders to vote on proposals and ecosystem decisions.
+    </p>
+</section>
+
+<section>
+    <h2>Legal Disclaimer</h2>
+    <p>
+        ShibaWave is a meme-based digital asset with no guaranteed returns.
+        This document is for informational purposes only and is not financial advice.
+        Users should always DYOR.
+    </p>
+</section>
+
+<section>
+    <h2>Official Links</h2>
+    <p>
+        Website: <a href="https://shibawave.hodl.fyi/" target="_blank">shibawave.hodl.fyi</a><br>
+        GitHub: <a href="https://github.com/ShibaWave/ShibaWaveInu" target="_blank">GitHub</a><br>
+        Twitter/X: <a href="https://x.com/ShibaWaveinu" target="_blank">@ShibaWaveinu</a><br>
+        Telegram: <a href="https://t.me/ShibaWaveinu" target="_blank">t.me/ShibaWaveinu</a><br>
+        YouTube: <a href="https://youtube.com/@shibawave" target="_blank">ShibaWave YouTube</a>
+    </p>
+</section>
+
+<footer>
+    © 2026 ShibaWave Meme Coin. All Rights Reserved.
+</footer>
+
+</body>
+</html>
